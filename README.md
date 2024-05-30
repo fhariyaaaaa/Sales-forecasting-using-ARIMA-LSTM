@@ -13,10 +13,6 @@ Installation
 
 To set up this project, follow these steps:
 
-# Clone this repository
-git clone https://github.com/your-username/sales-forecasting-arima-lstm.git
-cd sales-forecasting-arima-lstm
-
 # Install the required dependencies
 pip install -r requirements.txt
 Getting Started
