@@ -13,8 +13,7 @@ License
 Installation
 To set up this project, follow these steps:
 
-bash
-Copy code
+
 # Clone this repository
 git clone https://github.com/your-username/sales-forecasting-arima-lstm.git
 cd sales-forecasting-arima-lstm
@@ -25,8 +24,7 @@ Getting Started
 Before running the project, ensure you have Python 3.8+ installed on your system. The project relies on several libraries such as TensorFlow, Pandas, NumPy, and Matplotlib which are included in requirements.txt.
 
 Project Structure
-bash
-Copy code
+
 sales-forecasting-arima-lstm/
 │
 ├── data/                   # Dataset files
@@ -40,8 +38,6 @@ sales-forecasting-arima-lstm/
 Usage
 To run the forecasting models, navigate to the src/ directory and execute the following commands:
 
-bash
-Copy code
 # To run the ARIMA model
 python arima_model.py
 
