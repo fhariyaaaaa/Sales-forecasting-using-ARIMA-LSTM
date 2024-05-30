@@ -3,14 +3,6 @@ Sales Forecasting with ARIMA and LSTM
 Overview
 This project aims to demonstrate sales forecasting using two popular time series analysis methods: ARIMA (Autoregressive Integrated Moving Average) and LSTM (Long Short-Term Memory) networks. By comparing these methods, we can evaluate their effectiveness in forecasting sales data, which is crucial for strategic planning in business contexts.
 
-Table of Contents
-Installation
-Getting Started
-Usage
-Contributing
-License
-Installation
-
 To set up this project, follow these steps:
 
 # Install the required dependencies
