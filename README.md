@@ -15,7 +15,7 @@ python arima_model.py
 
 # To run the LSTM model
 python lstm_model.py
-Results will be saved in the results/ directory, and you can visualize them using the notebooks in the notebooks/ directory.
+
 
 
 
