@@ -6,13 +6,12 @@ This project aims to demonstrate sales forecasting using two popular time series
 Table of Contents
 Installation
 Getting Started
-Project Structure
 Usage
 Contributing
 License
 Installation
-To set up this project, follow these steps:
 
+To set up this project, follow these steps:
 
 # Clone this repository
 git clone https://github.com/your-username/sales-forecasting-arima-lstm.git
@@ -22,21 +21,6 @@ cd sales-forecasting-arima-lstm
 pip install -r requirements.txt
 Getting Started
 Before running the project, ensure you have Python 3.8+ installed on your system. The project relies on several libraries such as TensorFlow, Pandas, NumPy, and Matplotlib which are included in requirements.txt.
-
-Project Structure
-
-sales-forecasting-arima-lstm/
-│
-├── data/                   # Dataset files
-├── notebooks/              # Jupyter notebooks for exploration
-├── src/                    # Source code for ARIMA and LSTM models
-│   ├── arima_model.py      # Implementation of the ARIMA model
-│   └── lstm_model.py       # Implementation of the LSTM model
-├── results/                # Generated reports and figures
-├── requirements.txt        # Project dependencies
-└── README.md               # Project documentation
-Usage
-To run the forecasting models, navigate to the src/ directory and execute the following commands:
 
 # To run the ARIMA model
 python arima_model.py
